@@ -2,23 +2,23 @@
 Created a android application for Sushi order in android stuido
 -------------------------------------------------------------------------------------
 
-##Features
-    1)Add and remove the qunatity
-    2)Book the order and ammend it
+##Features<br>
+    1)Add and remove the qunatity<br>
+    2)Book the order and ammend it<br>
 
 
 ---------------------------------------------------------------------------------
 
 
-##FrontEnd
-  1)Layout Resource files
-  2)Language-: kotlin
+##FrontEnd<br>
+  1)Layout Resource files<br>
+  2)Language-: kotlin<br>
 
 -------------------------------------------------------------------------------
 
-##Database
-  1) Mysqli
-  2) Roomserver
+##Database<br>
+  1) Mysqli<br>
+  2) Roomserver<br>
 
   
 ----------------------------------------------------------------------------
