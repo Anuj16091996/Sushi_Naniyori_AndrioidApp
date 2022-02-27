@@ -3,12 +3,16 @@ Created a android application for Sushi order in android stuido
 -------------------------------------------------------------------------------------
 
 ##Features
-  1)Add and remove the qunatity
-  2) Book the order and ammend it
+    1)Add and remove the qunatity
+    2)Book the order and ammend it
+
+
 ---------------------------------------------------------------------------------
+
+
 ##FrontEnd
-1)Layout Resource files
-2)Language-: kotlin
+  1)Layout Resource files
+  2)Language-: kotlin
 
 -------------------------------------------------------------------------------
 
